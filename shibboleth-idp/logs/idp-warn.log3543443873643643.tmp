@@ -1,0 +1,122 @@
+2018-07-16 09:30:12,508 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-16 10:17:56,512 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-16 10:28:37,416 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-16 10:34:58,924 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-16 10:38:17,197 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-16 10:40:53,539 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-16 10:49:07,593 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-16 10:53:36,653 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-16 10:59:28,137 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-16 10:59:40,474 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-16 11:01:44,701 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-16 11:28:45,068 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-16 11:40:29,703 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-16 11:44:20,458 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-16 11:49:06,752 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-16 11:59:39,556 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-16 12:21:17,196 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-16 12:41:53,066 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-16 12:50:16,852 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-16 12:54:06,736 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-16 13:13:05,108 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-16 13:13:29,723 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-16 13:14:03,876 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-16 13:14:27,048 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-16 13:22:04,620 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-16 13:22:04,696 - ERROR [org.springframework.webflow.execution.repository.NoSuchFlowExecutionException:76] - 
+org.springframework.webflow.execution.repository.NoSuchFlowExecutionException: No flow execution could be found with key 'e1s1' -- perhaps this executing flow has ended or expired? This could happen if your users are relying on browser history (typically via the back button) that references ended flows.
+	at org.springframework.webflow.execution.repository.support.AbstractFlowExecutionRepository.getConversation(AbstractFlowExecutionRepository.java:172)
+Caused by: org.springframework.webflow.conversation.NoSuchConversationException: No conversation could be found with id '1' -- perhaps this conversation has ended? 
+	at org.springframework.webflow.conversation.impl.ConversationContainer.getConversation(ConversationContainer.java:126)
+2018-07-16 13:22:12,269 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-16 13:24:33,568 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-16 13:58:19,556 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-16 14:23:16,860 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-16 14:30:37,192 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-16 14:45:55,896 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-16 14:48:09,664 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-16 14:52:40,399 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-16 14:55:55,328 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-16 15:18:20,316 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-16 15:19:32,463 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-16 15:22:08,551 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-16 15:22:30,270 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-16 15:24:26,299 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-16 15:26:17,388 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-16 15:28:46,920 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-16 15:31:20,027 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-16 15:41:53,482 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-16 15:44:25,851 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-16 15:46:27,179 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-16 15:53:21,990 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-16 15:57:10,936 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-16 15:57:49,259 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-16 15:59:29,423 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-16 15:59:34,083 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-16 15:59:35,815 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-16 15:59:37,023 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-16 15:59:38,219 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-16 15:59:39,379 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-16 15:59:40,451 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-16 15:59:41,660 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-16 15:59:42,872 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-16 15:59:43,991 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-16 15:59:45,007 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-16 15:59:46,239 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-16 15:59:47,504 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-16 15:59:48,655 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-16 15:59:49,703 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-16 15:59:50,727 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-16 15:59:51,783 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-16 15:59:52,827 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-16 16:00:00,056 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-16 16:00:01,347 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-16 16:00:03,211 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-16 16:00:04,619 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-16 16:00:06,005 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-16 16:00:07,375 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-16 16:00:08,619 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-16 16:00:10,439 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-16 16:00:12,107 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-16 16:00:13,383 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-16 16:00:14,779 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-16 16:00:16,179 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-16 16:00:17,647 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-16 16:00:18,756 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-16 16:00:20,011 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-16 16:00:21,491 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-16 16:00:23,083 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-16 16:00:24,299 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-16 16:00:25,351 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-16 16:00:26,487 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-16 16:06:18,793 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-16 16:29:03,971 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-16 16:29:50,141 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-16 16:30:36,307 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-16 16:31:17,103 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-16 16:35:42,824 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-16 16:38:52,611 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-16 16:42:46,600 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-16 16:42:54,492 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-16 16:52:14,490 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-16 17:03:14,817 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-16 17:05:48,520 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-16 17:12:30,465 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-16 17:13:16,520 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-16 17:14:20,831 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-16 17:16:27,576 - ERROR [net.shibboleth.utilities.java.support.service.AbstractReloadableService:231] - Service 'shibboleth.AttributeFilterService': Reload for shibboleth.AttributeFilterService failed
+net.shibboleth.utilities.java.support.service.ServiceException: org.springframework.beans.factory.xml.XmlBeanDefinitionStoreException: Line 31 in XML document from file [/opt/shibboleth-idp/conf/attribute-filter.xml] is invalid; nested exception is org.xml.sax.SAXParseException; lineNumber: 31; columnNumber: 46; cvc-complex-type.2.4.a: Invalid content was found starting with element 'PolicyRequirementRule'. One of '{"urn:mace:shibboleth:2.0:afp":AttributeRule, "urn:mace:shibboleth:2.0:afp":AttributeRuleReference}' is expected.
+	at net.shibboleth.ext.spring.service.ReloadableSpringService.doReload(ReloadableSpringService.java:336)
+Caused by: org.springframework.beans.factory.xml.XmlBeanDefinitionStoreException: Line 31 in XML document from file [/opt/shibboleth-idp/conf/attribute-filter.xml] is invalid; nested exception is org.xml.sax.SAXParseException; lineNumber: 31; columnNumber: 46; cvc-complex-type.2.4.a: Invalid content was found starting with element 'PolicyRequirementRule'. One of '{"urn:mace:shibboleth:2.0:afp":AttributeRule, "urn:mace:shibboleth:2.0:afp":AttributeRuleReference}' is expected.
+	at org.springframework.beans.factory.xml.XmlBeanDefinitionReader.doLoadBeanDefinitions(XmlBeanDefinitionReader.java:399)
+Caused by: org.xml.sax.SAXParseException: cvc-complex-type.2.4.a: Invalid content was found starting with element 'PolicyRequirementRule'. One of '{"urn:mace:shibboleth:2.0:afp":AttributeRule, "urn:mace:shibboleth:2.0:afp":AttributeRuleReference}' is expected.
+	at com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.createSAXParseException(ErrorHandlerWrapper.java:198)
+2018-07-16 17:19:46,068 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-16 17:22:58,095 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-16 17:23:40,646 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-16 17:36:28,272 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-16 17:36:47,588 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-16 17:37:16,707 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-16 17:37:39,191 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-16 17:38:12,803 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-16 17:45:35,563 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format

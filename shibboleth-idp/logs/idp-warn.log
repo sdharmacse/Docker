@@ -1,0 +1,3 @@
+2019-04-15 05:07:14,910 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2019-04-15 05:26:59,228 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2019-04-15 05:28:53,920 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format

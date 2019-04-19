@@ -1,0 +1,7 @@
+192.168.1.41 - - [20/Jan/2019:04:07:09 +0000] "POST /idp/profile/SAML2/POST/SSO HTTP/1.1" 302 -
+192.168.1.41 - - [20/Jan/2019:04:07:09 +0000] "GET /idp/profile/SAML2/POST/SSO?execution=e1s1 HTTP/1.1" 200 2816
+192.168.1.41 - - [20/Jan/2019:04:07:09 +0000] "GET /idp/css/main.css HTTP/1.1" 200 2821
+192.168.1.41 - - [20/Jan/2019:04:07:09 +0000] "GET /idp/images/dummylogo.png HTTP/1.1" 200 6712
+192.168.1.41 - - [20/Jan/2019:04:07:12 +0000] "POST /idp/profile/SAML2/POST/SSO?execution=e1s1 HTTP/1.1" 200 11958
+192.168.1.41 - - [20/Jan/2019:04:32:09 +0000] "POST /idp/profile/SAML2/POST/SSO HTTP/1.1" 200 11958
+192.168.1.41 - - [20/Jan/2019:04:52:51 +0000] "POST /idp/profile/SAML2/POST/SSO HTTP/1.1" 200 11958

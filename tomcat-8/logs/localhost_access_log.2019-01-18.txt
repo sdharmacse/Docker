@@ -1,0 +1,12 @@
+192.168.1.42 - - [18/Jan/2019:07:09:19 +0000] "POST /idp/profile/SAML2/POST/SSO HTTP/1.1" 302 -
+192.168.1.42 - - [18/Jan/2019:07:09:19 +0000] "GET /idp/profile/SAML2/POST/SSO;jsessionid=9B740FD407E3ED5A76232CA068B8B8A0?execution=e1s1 HTTP/1.1" 200 2860
+192.168.1.42 - - [18/Jan/2019:07:09:19 +0000] "GET /idp/css/main.css HTTP/1.1" 200 2821
+192.168.1.42 - - [18/Jan/2019:07:09:19 +0000] "GET /idp/images/dummylogo.png HTTP/1.1" 200 6712
+192.168.1.42 - - [18/Jan/2019:10:22:48 +0000] "POST /idp/profile/SAML2/POST/SSO HTTP/1.1" 302 -
+192.168.1.42 - - [18/Jan/2019:10:22:48 +0000] "GET /idp/profile/SAML2/POST/SSO?execution=e1s1 HTTP/1.1" 200 2816
+192.168.1.42 - - [18/Jan/2019:10:22:48 +0000] "GET /idp/images/dummylogo.png HTTP/1.1" 200 6712
+192.168.1.42 - - [18/Jan/2019:10:22:48 +0000] "GET /idp/css/main.css HTTP/1.1" 200 2821
+192.168.1.42 - - [18/Jan/2019:10:35:32 +0000] "POST /idp/profile/SAML2/POST/SSO HTTP/1.1" 302 -
+192.168.1.42 - - [18/Jan/2019:10:35:32 +0000] "GET /idp/profile/SAML2/POST/SSO?execution=e2s1 HTTP/1.1" 200 2816
+192.168.1.42 - - [18/Jan/2019:10:35:32 +0000] "GET /idp/css/main.css HTTP/1.1" 200 2821
+192.168.1.42 - - [18/Jan/2019:10:35:32 +0000] "GET /idp/images/dummylogo.png HTTP/1.1" 200 6712

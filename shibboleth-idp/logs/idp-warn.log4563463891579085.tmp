@@ -1,0 +1,77 @@
+2018-07-28 09:55:57,029 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-28 09:59:51,664 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-28 10:05:38,892 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-28 10:56:38,191 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-28 10:58:15,887 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-28 11:09:04,688 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-28 11:11:51,321 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-28 11:29:30,766 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-28 12:30:58,223 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-28 12:36:53,313 - WARN [org.hibernate.engine.jdbc.spi.SqlExceptionHelper:144] - SQL Error: 0, SQLState: 08001
+2018-07-28 12:36:53,313 - ERROR [org.hibernate.engine.jdbc.spi.SqlExceptionHelper:146] - Could not create connection to database server. Attempted reconnect 3 times. Giving up.
+2018-07-28 12:36:53,329 - ERROR [org.opensaml.storage.impl.JPAStorageService:755] - Error deleting with expiration '1532761609266'
+javax.persistence.PersistenceException: org.hibernate.exception.JDBCConnectionException: Could not open connection
+	at org.hibernate.jpa.spi.AbstractEntityManagerImpl.convert(AbstractEntityManagerImpl.java:1763)
+Caused by: org.hibernate.exception.JDBCConnectionException: Could not open connection
+	at org.hibernate.exception.internal.SQLExceptionTypeDelegate.convert(SQLExceptionTypeDelegate.java:65)
+Caused by: com.mysql.jdbc.exceptions.jdbc4.MySQLNonTransientConnectionException: Could not create connection to database server. Attempted reconnect 3 times. Giving up.
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+Caused by: com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+Caused by: java.net.ConnectException: Connection refused
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+2018-07-28 12:36:53,331 - ERROR [org.opensaml.storage.impl.JPAStorageService:853] - Error running cleanup task for 1532761609266
+java.io.IOException: javax.persistence.PersistenceException: org.hibernate.exception.JDBCConnectionException: Could not open connection
+	at org.opensaml.storage.impl.JPAStorageService.deleteImpl(JPAStorageService.java:763)
+Caused by: javax.persistence.PersistenceException: org.hibernate.exception.JDBCConnectionException: Could not open connection
+	at org.hibernate.jpa.spi.AbstractEntityManagerImpl.convert(AbstractEntityManagerImpl.java:1763)
+Caused by: org.hibernate.exception.JDBCConnectionException: Could not open connection
+	at org.hibernate.exception.internal.SQLExceptionTypeDelegate.convert(SQLExceptionTypeDelegate.java:65)
+Caused by: com.mysql.jdbc.exceptions.jdbc4.MySQLNonTransientConnectionException: Could not create connection to database server. Attempted reconnect 3 times. Giving up.
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+Caused by: com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+Caused by: java.net.ConnectException: Connection refused
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+2018-07-28 12:37:43,095 - WARN [org.ldaptive.AbstractOperation$ReopenOperationExceptionHandler:277] - Operation exception encountered, reopening connection
+2018-07-28 12:37:43,096 - WARN [org.ldaptive.AbstractOperation$ReopenOperationExceptionHandler:277] - Operation exception encountered, reopening connection
+2018-07-28 12:37:43,096 - WARN [org.ldaptive.AbstractOperation$ReopenOperationExceptionHandler:277] - Operation exception encountered, reopening connection
+2018-07-28 12:37:43,517 - WARN [org.ldaptive.AbstractOperation$ReopenOperationExceptionHandler:277] - Operation exception encountered, reopening connection
+2018-07-28 12:37:43,518 - WARN [org.ldaptive.AbstractOperation$ReopenOperationExceptionHandler:277] - Operation exception encountered, reopening connection
+2018-07-28 12:37:43,519 - WARN [org.ldaptive.AbstractOperation$ReopenOperationExceptionHandler:277] - Operation exception encountered, reopening connection
+2018-07-28 12:42:50,893 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-28 12:55:06,021 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-28 13:13:18,954 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-28 14:35:58,011 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-28 15:44:32,320 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-28 15:46:06,484 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-28 15:50:45,196 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-28 15:53:46,595 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-28 16:09:03,419 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-28 16:20:33,464 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-28 16:23:48,901 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-28 16:37:39,053 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-28 16:39:40,011 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-28 16:41:34,667 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-28 16:46:49,304 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-28 17:08:38,348 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-28 17:24:40,189 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-28 17:56:38,665 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-28 18:04:09,025 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-28 18:12:09,048 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-28 18:15:18,717 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-28 19:01:52,563 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-28 19:11:54,071 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-28 19:37:15,128 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-28 19:42:17,725 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-28 20:02:37,660 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-28 20:08:30,790 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-28 20:49:32,839 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-28 21:06:25,668 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-28 21:18:55,472 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-28 21:23:06,480 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2018-07-28 21:27:27,193 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format

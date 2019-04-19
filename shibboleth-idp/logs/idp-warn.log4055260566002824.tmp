@@ -1,0 +1,13 @@
+2019-02-14 05:00:33,996 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2019-02-14 05:48:45,422 - WARN [net.shibboleth.idp.attribute.resolver.spring.ad.impl.TransientIdAttributeDefinitionParser:84] - Attribute Definition 'transientId': This feature is DEPRECATED in favor of a TransientSAML2NameIDGenerator
+2019-02-14 05:48:49,626 - WARN [net.shibboleth.idp.attribute.resolver.dc.ldap.impl.LDAPDataConnector:168] - Data Connector 'myLDAP': Use of default JVM trust store will be removed in the next major version of this software; replacement is trustFile attribute
+2019-02-14 06:05:49,227 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2019-02-14 09:21:23,717 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2019-02-14 11:00:35,883 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2019-02-14 13:41:21,526 - ERROR [org.springframework.webflow.execution.repository.NoSuchFlowExecutionException:76] - 
+org.springframework.webflow.execution.repository.NoSuchFlowExecutionException: No flow execution could be found with key 'e1s1' -- perhaps this executing flow has ended or expired? This could happen if your users are relying on browser history (typically via the back button) that references ended flows.
+	at org.springframework.webflow.execution.repository.support.AbstractFlowExecutionRepository.getConversation(AbstractFlowExecutionRepository.java:172)
+Caused by: org.springframework.webflow.conversation.NoSuchConversationException: No conversation could be found with id '1' -- perhaps this conversation has ended? 
+	at org.springframework.webflow.conversation.impl.ConversationContainer.getConversation(ConversationContainer.java:126)
+2019-02-14 13:42:14,467 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
+2019-02-14 13:52:21,641 - WARN [org.opensaml.saml.common.profile.logic.MetadataNameIdentifierFormatStrategy:75] - Ignoring NameIDFormat metadata that includes the 'unspecified' format
